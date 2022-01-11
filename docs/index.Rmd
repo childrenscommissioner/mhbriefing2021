@@ -1,0 +1,102 @@
+---
+title: "The state of children's mental health services 2020/21"
+output: 
+ html_document: 
+   self_contained: no
+   theme: null
+   mathjax: null
+   highlight: null
+   css: styles.css
+   template: "CCO_template_html.html"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+
+
+setwd("W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis/")
+```
+
+<link rel="stylesheet" href="W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis//styles.css" type="text/css" />
+
+
+```{r}
+
+#<link rel="stylesheet" href="../../styles.css" type="text/css" />
+
+```
+**Introduction**
+
+This is the Office of the Children’s Commissioner’s (OCC) fifth annual report on the state of children’s
+mental health services in England. The report aims to assess children’s ability to access Children and
+Young People’s Mental Health Services (CYPMHS) provision in England in 2020/21 and how (if at all) this
+has changed over the past two years. Using new figures sourced from NHS Digital, NHS England and
+NHS Improvement, this report examines the following at both a national and Clinical Commissioning
+Group (CCG) level:
+
+* Numbers of children referred to and accessing CYPMHS
+* Numbers of children referred that were not accepted into treatment during the 2020/21 financial year, as proxied by the numbers not receiving two contacts with CYPMHS
+* Average waiting times
+* Spending on children’s mental health
+
+</br>
+
+**Headline findings**
+
+* Fewer children are being referred to CAMHS – in 2020/21, 484,000 children were referred, a decrease from 539,000 last year. Referral rates have also dropped from 4.5% to 4% of the under 18 population.
+* For those who are accepted into treatment, average waiting times have decreased substantially from 43 days (2019/20) to 32 days (2020/21). 
+* However, many children are not getting the help they need. Over a third of children referred are still waiting for their second contact (up from last year) and almost a quarter had their referrals closed before treatment.
+* Spending has increased for the fourth consecutive year. In 2020/21, £881 million was spent on children’s mental health services – an increase from £791 million last year.
+
+</br>
+
+**Data sources and methodology**
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="data sources/pages/data_sources.html">
+<h3 class="list_header">Data sources</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="limitations/pages/limitations.html">
+<h3 class="list_header">Limitations of data and analysis</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="Methodology/pages/methodology.html">
+<h3 class="list_header">Methodology</h3></a>
+</div>
+
+### **Trends in children's access to CYPMHS**
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="children referred/pages/children referred.html">
+<h3 class="list_header">Number of children referred to CYPMHS</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="referrals closed/pages/referrals closed.html">
+<h3 class="list_header">Referrals closed before treatment</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="waiting times/pages/waiting times.html">
+<h3 class="list_header">Waiting times and outcomes</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="spend/pages/spend.html">
+<h3 class="list_header">CCG spending on children's mental health services</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="summary scores/pages/summary scores.html">
+<h3 class="list_header">CCG summary scores</h3></a>
+</div>
+
+<div class="topic_navList">
+<a class="meta_navList_link" href="ccg_maps/pages/ccg_maps.html">
+<h3 class="list_header">Local area (CCG) maps</h3></a>
+</div>
+
+
