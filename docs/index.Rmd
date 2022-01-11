@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = F)
 setwd("W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis/")
 ```
 
-<link rel="stylesheet" href="W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis//styles.css" type="text/css" />
+<link rel="stylesheet" href="../../styles.css" type="text/css" />
 
 
 ```{r}
@@ -70,17 +70,17 @@ Group (CCG) level:
 ### **Trends in children's access to CYPMHS**
 
 <div class="topic_navList">
-<a class="meta_navList_link" href="children referred/pages/children referred.html">
+<a class="meta_navList_link" href="children referred/pages/children-referred.html">
 <h3 class="list_header">Number of children referred to CYPMHS</h3></a>
 </div>
 
 <div class="topic_navList">
-<a class="meta_navList_link" href="referrals closed/pages/referrals closed.html">
+<a class="meta_navList_link" href="referrals closed/pages/referrals-closed.html">
 <h3 class="list_header">Referrals closed before treatment</h3></a>
 </div>
 
 <div class="topic_navList">
-<a class="meta_navList_link" href="waiting times/pages/waiting times.html">
+<a class="meta_navList_link" href="waiting times/pages/waiting-times.html">
 <h3 class="list_header">Waiting times and outcomes</h3></a>
 </div>
 
@@ -90,12 +90,12 @@ Group (CCG) level:
 </div>
 
 <div class="topic_navList">
-<a class="meta_navList_link" href="summary scores/pages/summary scores.html">
+<a class="meta_navList_link" href="summary scores/pages/summary-scores.html">
 <h3 class="list_header">CCG summary scores</h3></a>
 </div>
 
 <div class="topic_navList">
-<a class="meta_navList_link" href="ccg_maps/pages/ccg_maps.html">
+<a class="meta_navList_link" href="ccg maps/pages/ccg-maps.html">
 <h3 class="list_header">Local area (CCG) maps</h3></a>
 </div>
 
