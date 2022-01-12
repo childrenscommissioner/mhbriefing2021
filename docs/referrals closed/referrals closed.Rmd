@@ -45,10 +45,10 @@ The proportion of children referred whose referrals was closed before starting t
 
 There remains notable variation across the country in the numbers of children whose referral was closed before treatment, from as low as 7% of referrals in NHS East Sussex and NHS Leeds to 41% in NHS East and North Hertfordshire. However, this is still a large improvement from 2017/18 when, in some CCGs, more than 80% of children referred experienced this.
 
-Since 2019/20, most areas (89 CCGs - 66%) have reduced the percentage of children whose referrals were closed before treatment. Of these, NHS Wolverhampton and NHS Tameside and Glossop saw the biggest decreases – 26 ppts and 20 ppts respectively (Table X). Despite the overall improvement, some CCGs that saw large increases in referral closure rates (see Table X).
+Since 2019/20, most areas (89 CCGs - 66%) have reduced the percentage of children whose referrals were closed before treatment. Of these, NHS Wolverhampton and NHS Tameside and Glossop saw the biggest decreases – 26 ppts and 20 ppts respectively (see Table 3). Despite the overall improvement, some CCGs that saw large increases in referral closure rates (see Table 4).
 
 
-**The 10 CCGs with largest proportion of referrals closed before treatment in 2020/21.**
+**Table 1. The 10 CCGs with largest proportion of referrals closed before treatment in 2020/21.**
 
 
 ```{r refclosed bottom, echo=FALSE}
@@ -75,7 +75,7 @@ rc_largestperc %>%
 ```
 <br/>
 
-**The 10 CCGs with smallest proportion of referrals closed before treatment in 2020/21.**
+**Table 2. The 10 CCGs with smallest proportion of referrals closed before treatment in 2020/21.**
 
 ```{r refclosed top, echo=FALSE}
 
@@ -98,7 +98,7 @@ rc_smallestperc %>%
 ```
 <br/>
 
-**The top 10 CCGs with the largest decreases in the rate of children having referrals closed before treatment since 2019/20.**
+**Table 3. The top 10 CCGs with the largest decreases in the rate of children having referrals closed before treatment since 2019/20.**
 
 ```{r refclosed decreases, echo=FALSE}
 
@@ -122,7 +122,7 @@ rc_largestdrop %>%
 ```
 <br/>
 
-**The top 10 CCGs with the largest increases in the rate of children having referrals closed before treatment since 2019/20.**
+**Table 4. The top 10 CCGs with the largest increases in the rate of children having referrals closed before treatment since 2019/20.**
 
 ```{r refclosed increases, echo=FALSE}
 
