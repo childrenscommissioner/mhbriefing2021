@@ -51,7 +51,7 @@ Of the 497,502 children referred to CYPMHS in 2020/21, two-fifths received two c
 
 **Figure 1. Percentage of children referred to CYPMHS in 2018/19 to 2020/21 by outcome.**
 
-![](W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis/tables/wtproportion.png)
+![](W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis/tables/wtproportion.png){#id .class width=90% height=90%}
 
 ```{r outcomes, echo=FALSE}
 
