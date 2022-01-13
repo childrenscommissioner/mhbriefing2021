@@ -39,9 +39,6 @@ require(downloadthis)
 
 <script src="extra_js.js"></script>
 
-## CCG spending on children’s mental health services
-<br/>
-
 *Note: The FYFVMH dashboard and MHS dataset only presents data for children’s mental health services directly commissioned by the NHS. As such, this report does not examine figures on low-level mental health provision such as school-based counselling or services provided by external organisations (services which may be funded by the NHS but not considered NHS commissioned).*
 
 Overall, CCG spending on mental health has continued to increase over the past two years. Of the total NHS spend for England (£82 billion), CCGs spent £881 million on children’s mental health services (1.1% of total allocation). This compares to £791 million in 2019/20 (0.97% of total allocation) – an increase of 11% in cash and 4.4% in real terms . Spend per child has also increased, up from £66 in 2019/20 to £73 in 2020/21. This represents an increase of 9.6% in cash terms and a 3.7% increase in real terms. 

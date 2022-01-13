@@ -53,9 +53,12 @@ For each indicator, CCGs are ranked from best to worst (e.g. shortest waiting ti
 
 ***
 
-## Overall CCG scores
+**Overall CCG scores**
 
-According to these scoring criteria, NHS Shropshire and NHS West Sussex received the lowest overall score of 8 out of 25. It is followed by NHS Crawley CCG and NHS Horsham and Mid Sussex CCG, both of which have a score of 7 (see table 9).
+According to these scoring criteria, NHS Wakefield, NHS Tees Valley and NHS Heywood, Middleton and Rochdale were the best performers this year with overall scores of 25, 24 and 24 respectively.  
+
+Conversely, NHS Shropshire and NHS West Sussex received the lowest overall scores of eight out of 25.
+
 
 **Table 1. Top 20 best performing CCGs in 2020/21**
 
@@ -82,7 +85,7 @@ top_ccgs %>%
 
 <br/>
 
-**Bottom 20 CCGs with the lowest overall scores in 2020/21.**
+**Table 2. Bottom 20 CCGs with the lowest overall scores in 2020/21.**
 
 ```{r 20 worst, echo=FALSE}
 

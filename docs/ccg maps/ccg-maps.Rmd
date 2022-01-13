@@ -41,6 +41,7 @@ require(dplyr)
 
 These maps present 2020/21 Clinical Commissioning Group (CCG) performance on five key indicators used to assess children's mental health services (CAMHS) provision. These indicators are:
 <br/>
+
 * CCG spend on children's mental health as a percentage of CCG budget.
 
 * Mental health spend per child (calculated using NHS Five Year Forward View (FYFV) spending figures and ONS mid 2019 CCG population estimates.
@@ -57,7 +58,7 @@ Also shown is an _overall score_ for each CCG calculated based on their performa
 This analysis uses data provided by NHS England and NHS Digital from two key sources: the NHS Mental Health Services Dataset (MHSDS) and Five Year Foward View (FYFV) dashboard. More detail on sources and the methodology for calculating these figures is available in the methodology section of this website.
 <br/><br/>
 
-### Limitations to consider
+**Limitations to consider**
 
 * All findings need to be considered within the context of the Coronavirus pandemic. The crisis placed unprecedented pressure on the NHS’ capacity to deliver much-needed services. This, combined with the negative impact of social isolation on mental health, means that there are simultaneously more people in need of treatment while there are fewer resources to do so.
 
@@ -70,7 +71,9 @@ This analysis uses data provided by NHS England and NHS Digital from two key sou
 As such, these results do not provide a wholly complete picture of the mental health support available for children but is still a useful starting point and reference for assessing the quality of CAMHS provision at a local level.
 <br/><br/>
  
-## NHS Clinical Commissioning Group Maps
+ 
+**NHS Clinical Commissioning Group Maps**
+
 ***
 Hover over an area to display more information, scroll up and down to zoom.
  

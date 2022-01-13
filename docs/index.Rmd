@@ -43,10 +43,12 @@ Group (CCG) level:
 
 **Headline findings**
 
-* Fewer children are being referred to CAMHS – in 2020/21, 484,000 children were referred, a decrease from 539,000 last year. Referral rates have also dropped from 4.5% to 4% of the under 18 population. Likely explaining how CYPMHS managed to maintain consistent waiting times for those who started treatment (two contacts) despite the pandemic.
+* Spending has increased for the fourth consecutive year. In 2020/21, £881 million was spent on children’s mental health services – an increase from £791 million last year.
+* Fewer children are being referred to CAMHS – in 2020/21, 484,000 children were referred, a decrease from 539,000 last year. Referral rates have also dropped from 4.5% to 4% of the under 18 population. 
+* NHS figures state that 2 in 5 children with a mental health disorder are accessing specialist mental health services (39.6%). However, these figures are based on prevalence data from 2004 (updated in 2017) rather than the more recent 2021 figures. Applying these new prevalence rates (which capture the rise in probable mental health disorders during the pandemic from 1 in 9 to 1 in 6 children) to ONS population estimates, we calculate the true access rate to be closer to a third of children (32%).
 * For those who are accepted into treatment, average waiting times have decreased substantially from 43 days (2019/20) to 32 days (2020/21). 
 * However, many children are not getting the help they need. Over a third of children referred are still waiting for their second contact (roughly the same as last year) and almost a quarter had their referrals closed before treatment.
-* Spending has increased for the fourth consecutive year. In 2020/21, £881 million was spent on children’s mental health services – an increase from £791 million last year.
+
 
 </br>
 
@@ -67,7 +69,7 @@ Group (CCG) level:
 <h3 class="list_header">Methodology</h3></a>
 </div>
 
-### **Trends in children's access to CYPMHS**
+**Trends in children's access to CYPMHS**
 
 <div class="topic_navList">
 <a class="meta_navList_link" href="children referred/pages/children-referred.html">

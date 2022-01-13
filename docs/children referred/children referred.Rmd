@@ -82,7 +82,7 @@ Access rates (as calculated by the NHS) have continued to increase from an avera
 * For 6 to 16 year olds from one in nine (11.6%) to one in six (17.4%). 
 * For 17 to 19 year olds from one in ten (10.1%) to one in six (17.4%).
 
-Applying these new prevalence rates to ONS mid-2020 population estimates for those aged 6 to 17 shows that there is a pool of 1,313,983 children with a probable mental health disorder. Data from the NHS FYFV dashboard reports that there were 420,504 young people in 2020/21 who received support from NHS funded community services. From this we calculate that the true access rate is closer to 32%, a notable drop from 41% calculated based on 2004 prevalence figures.
+Applying these new prevalence rates to ONS mid-2020 population estimates for those aged 6 to 17 shows that there is a pool of 1,313,983 children with a probable mental health disorder. Data from the NHS FYFV dashboard reports that there were 420,504 young people in 2020/21 who received support from NHS funded community services. From this we calculate that the true access rate is closer to 32%, a notable drop from 39.6% calculated based on 2004 prevalence figures.
 
 
 **Table 2. Change in national access rates from 2017/18 to 2019/20**

@@ -39,8 +39,6 @@ require(downloadthis)
 
 <script src="extra_js.js"></script>
 
-## Waiting times and outcomes
-
 <br/>
 Of the 497,502 children referred to CYPMHS in 2020/21, two-fifths received two contacts within the year (our proxy for entering treatment).
 
@@ -49,29 +47,18 @@ Of the 497,502 children referred to CYPMHS in 2020/21, two-fifths received two c
 * The percentage of children still waiting for treatment at the end of the year also varied significantly at a CCG level from as low as 4% in NHS Castle Point and Rochford and Tower Hamlets to 78% in NHS East Sussex. 
 * This is slightly worse than in 2018/19 where the CCG with the highest proportion of children still waiting was 69% in NHS South Warwickshire while the lowest proportion was 10%. This compares to lows of 10% in NHS Tower Hamlets to highs of 74% in NHS North Lincolnshire the previous year.
 
+<br/>
+
+**Figure 1. Percentage of children referred to CYPMHS in 2018/19 to 2020/21 by outcome.**
+
+![](W:/CCO-WORKING-FS/Projects/MH briefing/MH briefing 202021/analysis/tables/wtproportion.png)
 
 ```{r outcomes, echo=FALSE}
 
 # #**Figure 1. Percentage of children referred to CYPMHS in 2018/19 to 2020/21 by outcome.**
 # 
-# # READ IN TABLE
-# 
-# ###  ###
-# 
-# overall_table <- fread("W:/CCO-WORKING-FS/Projects/big ask survey/analysis/aux data/perc happy/phappy_overall.csv")
-# 
-# kable(overall_table) %>%
-#   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive")) 
-# 
-# overall_table %>%
-#   download_this(
-#     output_name = "big ask data download",
-#     output_extension = ".xlsx",
-#     button_label = "Download data as xlsx",
-#     button_type = "default",
-#     has_icon = TRUE,
-#     icon = "fa fa-save"
-#   )
+
+#![Caption for the picture.](/path/to/image.png)
 
 ```
 <br/>
