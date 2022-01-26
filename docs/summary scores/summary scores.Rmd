@@ -40,7 +40,7 @@ require(downloadthis)
 <script src="extra_js.js"></script>
 
 <br/>
-Creating CCG level summary scores As with last year’s report, to provide an overall indication of how each CCG compares to the rest of England in terms of children’s access to mental health services, we created a summary score for each CCG based on five key indicators of CYPMHS performance. These indicators are:
+As with last year’s report, to provide an overall indication of how each CCG compares to the rest of England in terms of children’s access to mental health services, we created a summary score for each CCG based on five key indicators of CYPMHS performance. These indicators are:
 
 1. CCG spending on children’s mental health as a percentage of total CCG allocation 
 2. Mental health spend per child - calculated using NHS FYFVMH spending figures and ONS mid 2020 CCG population estimates
@@ -55,9 +55,10 @@ For each indicator, CCGs are ranked from best to worst (e.g. shortest waiting ti
 
 **Overall CCG scores**
 
-According to these scoring criteria, NHS Wakefield, NHS Tees Valley and NHS Heywood, Middleton and Rochdale were the best performers this year with overall scores of 25, 24 and 24 respectively.  
+According to these scoring criteria, NHS Wakefield, NHS Tees Valley and NHS Heywood, Middleton and Rochdale were the best performers this year with overall scores of 25, 24 and 23 respectively.  
 
-Conversely, NHS Shropshire and NHS West Sussex received the lowest overall scores of eight out of 25.
+Conversely, NHS West Sussex and NHS Coventry and Rugby received the lowest overall scores of eight out of 25.
+
 
 
 **Table 1. Top 20 best performing CCGs in 2020/21**
