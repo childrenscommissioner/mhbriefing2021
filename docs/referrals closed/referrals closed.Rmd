@@ -38,14 +38,15 @@ require(downloadthis)
 ```
 
 <script src="extra_js.js"></script>
+<br/>
 
 *Note: This section of the report refers to children and young people who do not receive two contacts after being referred to CYPMHS because their referral was subsequently closed. This is the best proxy measure available for those receiving treatment and currently aligns with monitoring in the Five Year Forward View until the NHS switches to using one contact as their primary measure. However, this will include some children whose referrals was closed but who may not have required specialist treatment, chose not to pursue further intervention, or were referred to other services.*
 
-The proportion of children referred whose referrals was closed before starting treatment has continued to decrease to 23%, down from 27% in 2019/20 and 36% in 2018/19. This trend reveals an overall shift from closing referrals outright to accepting children onto longer waiting lists (see section on waiting times and outcomes).
+The proportion of children referred whose referrals was closed before starting treatment has continued to decrease to 24%, down from 27% in 2019/20 and 36% in 2018/19. This trend reveals an overall shift from closing referrals outright to accepting children onto longer waiting lists (see section on waiting times and outcomes).
 
-There remains notable variation across the country in the numbers of children whose referral was closed before treatment, from as low as 7% of referrals in NHS East Sussex and NHS Leeds to 41% in NHS East and North Hertfordshire. However, this is still a large improvement from 2017/18 when, in some CCGs, more than 80% of children referred experienced this.
+* There remains notable variation across the country in the numbers of children whose referral was closed before treatment, from as low as 8% of referrals in NHS East Sussex, NHS Liverpool and NHS Leeds to 41% in NHS East and North Hertfordshire, NHS East Riding of Yorkshire and NHS Barnsley. However, this is still a large improvement from 2017/18 when, in some CCGs, more than 80% of children referred experienced this.
 
-Since 2019/20, most areas (89 CCGs - 66%) have reduced the percentage of children whose referrals were closed before treatment. Of these, NHS Wolverhampton and NHS Tameside and Glossop saw the biggest decreases – 26 ppts and 20 ppts respectively (see Table 3). Despite the overall improvement, some CCGs that saw large increases in referral closure rates (see Table 4).
+* Since 2019/20, most areas (88 CCGs - 65%) have reduced the percentage of children whose referrals were closed before treatment. Of these, NHS Wolverhampton, NHS Tameside and Glossop and NHS Bradford District and Craven saw the biggest decreases – 29 ppts for the former and 20 ppts for Tameside and Bradford  (see Table 3). Despite the overall improvement, some CCGs that saw large increases in referral closure rates (see Table 4).
 
 
 **Table 1. The 10 CCGs with largest proportion of referrals closed before treatment in 2020/21.**

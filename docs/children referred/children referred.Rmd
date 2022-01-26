@@ -42,14 +42,16 @@ require(downloadthis)
 
 ### Number of children referred to CYPMHS
 
-1. The number and rate of children referred to CYPMHS has decreased for the first time since 2017/18. Access rates (as calculated by the NHS) have increased, but these figures are based on 2004 mental health disorder prevalence, not the much higher 2021 prevalence estimates. 
+1. The number and rate of children referred to CYPMHS has decreased for the first time since 2017/18. Access rates (as calculated by the NHS) have increased, but these figures are based on 2004 mental health disorder prevalence (1 in 10 children), not the much higher 2021 prevalence estimates (1 in 6 children). 
 
 *Note: All findings below need to be considered within the context of the Coronavirus pandemic. The crisis placed unprecedented pressure on the NHS’ capacity to deliver much-needed services. This, combined with the negative impact of social isolation on mental health, means that there are simultaneously more people in need of treatment while there are fewer resources to do so.*
 
 * The number and rate of children referred to CYPMHS has decreased for the first time since 2017/18, the year when the OCC published the first iteration of this mental health briefing. In 2020/21, 497,502 children in England were referred to CYPMHS. This is equal to 4% of all children in England – a decrease from 4.5% in 2019/20 but an increase from 3.4% in 2018/19.
 
-* This year, only 29 CCGs (21%) saw positive changes in the percentage of children referred to CYPMHS. Upon closer inspection, none of these CCGs saw large increases in the rate of children referred. The largest percentage point increase (shared by four CCGs) was 1.1%. The CCGs are as follows: NHS Isle of Wight, NHS Northumberland, NHS Nottingham and Nottinghamshire and NHS Wirral.
-The remaining 106 CCGs (79%), saw decreases in the number referred to CYPMHS – the largest of which were seen in NHS Barking and Dagenham (-2.9 ppts) and NHS Telford and Wrekin (-2.5 ppts).
+* This year, only 31 CCGs (23%) saw positive changes in the percentage of children referred to CYPMHS. Upon closer inspection, none of these CCGs saw large increases in the rate of children referred. The largest percentage point increase (shared by four CCGs) was 1.1%. The CCGs are as follows: NHS Isle of Wight, NHS Northumberland, NHS Nottingham and Nottinghamshire and NHS Wirral.
+
+* The remaining 104 CCGs (77%), saw decreases in the number referred to CYPMHS – the largest of which were seen in NHS Barking and Dagenham (-2.2 ppts) and NHS Stafford and Surrounds (-2.0 ppts).
+
 
 **Table 1. The 10 CCGs with the largest increases in percentage of children referred to CYPMHS**
 

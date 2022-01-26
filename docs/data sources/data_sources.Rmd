@@ -38,8 +38,7 @@ require(tippy)
 ```
 <script src="extra_js.js"></script>
 
-
-**Data sources**
+<br/>
 
 All data used in this analysis, except where specified, is sourced from two data extracts provided by NHS Digital and NHS England.
 

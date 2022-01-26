@@ -199,7 +199,7 @@ leaflet(data=map, options = leafletOptions(backgroun="#FFF")) %>%
               for (i in 2:(n-1)){cuts[i] = " "} 
               cuts[1] = "Lowest rate" 
               paste0(cuts[-n], cuts[-1])},
-            title = "Title",
+            title = "Legend",
             na.label = "Missing/excluded",
             opacity = 0.7
   ) 
@@ -217,7 +217,7 @@ minVals<-sapply(c("overall_score","perc_closed","avg_wait","perc_referral","spen
       paste0(min(overall_sc[,x])," days")
        
     }else if(x=="spend_YP"){
-       paste0("£",min(overall_sc[,x])," per child")
+       paste0("£",round(min(overall_sc[,x]))," / child")
     }else{
        
       paste0(min(overall_sc[,x]))
@@ -235,7 +235,7 @@ maxVals<-sapply(c("overall_score","perc_closed","avg_wait","perc_referral","spen
       paste0(max(overall_sc[,x])," days")
        
     }else if(x=="spend_YP"){
-       paste0("£",max(overall_sc[,x])," per child")
+       paste0("£",round(max(overall_sc[,x]))," / child")
     }else{
        
       paste0(max(overall_sc[,x]))
@@ -246,6 +246,8 @@ maxVals<-sapply(c("overall_score","perc_closed","avg_wait","perc_referral","spen
 minVals<-jsonlite::toJSON(minVals,"values")
 
 maxVals<-jsonlite::toJSON(maxVals,"values")
+
+titles<-jsonlite::toJSON(outcomes$lb,"values")
 
 cat(paste0('<script>
   
