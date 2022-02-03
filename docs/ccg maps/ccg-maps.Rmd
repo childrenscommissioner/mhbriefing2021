@@ -42,40 +42,25 @@ require(dplyr)
 These maps present 2020/21 Clinical Commissioning Group (CCG) performance on five key indicators used to assess children's mental health services (CAMHS) provision. These indicators are:
 <br/>
 
-* CCG spend on children's mental health as a percentage of CCG budget.
+* CCG spend on children's mental health as a percentage of CCG budget. This ranges from 0.21% in NHS Halton to 2.01% in NHS Norfolk and Waveney.
 
-* Mental health spend per child (calculated using NHS Five Year Forward View (FYFV) spending figures and ONS mid 2019 CCG population estimates.
+* Mental health spend per child (calculated using NHS Five Year Forward View (FYFV) spending figures and ONS mid 2019 CCG population estimates. This ranges from £16 in NHS Halton to NHS Isle of Wight £165 per child.
 
-* Total number of children referred to CAMHS as a proportion of the under-18 population.
+* Total number of children referred to CAMHS as a proportion of the under-18 population. This ranges from 1.9% in NHS Ealing to 8.5% in NHS South Tyneside. 
 
-* Average waiting time for children who receive a second contact.
+* Average waiting time for children who receive a second contact. This ranges from 81 days in NHS Cannock Chase to 6 days in NHS Castle Point and Rochford.
 
-* The percentage of referrals that are closed before treatment.
+* The percentage of referrals that are closed before treatment. This ranges from 8% in NHS Leeds to 41% in NHS Barnsley.
 <br/><br/>
 
-Also shown is an _overall score_ for each CCG calculated based on their performance on the indicators above. This provides an overall indication of how each CCG compares to the rest of England.
+Also shown is an _overall score_ for each CCG calculated based on their performance on the indicators above. This provides an overall indication of how each CCG compares to the rest of England. For each indicator, CCGs are ranked from best to worst (e.g. shortest waiting time to longest) and assigned to 5 quintiles. Best performing CCGs are given a score of 5 while the worst performers are given a score of 1. We then add these quintile scores together to form an overall score ranging from 5 to 25 for each CCG.
 
-This analysis uses data provided by NHS England and NHS Digital from two key sources: the NHS Mental Health Services Dataset (MHSDS) and Five Year Foward View (FYFV) dashboard. More detail on sources and the methodology for calculating these figures is available in the methodology section of this website.
-<br/><br/>
-
-**Limitations to consider**
-
-* All findings need to be considered within the context of the Coronavirus pandemic. The crisis placed unprecedented pressure on the NHS’ capacity to deliver much-needed services. This, combined with the negative impact of social isolation on mental health, means that there are simultaneously more people in need of treatment while there are fewer resources to do so.
-
-* This report does not include figures on low-level mental health provision such as school-based counselling or those provided by other organisations. CCGs that spend heavily on low-level services at the expense of more formal CAMHS provision may find that out scoring system undervalues their investment.
-
-* Children who had their referrals closed may not have required specialist treatment or may have been referred to services provided by other organisations such as charities, social care and private healthcare practices. However, the data does not show where they may have been referred to, making this a key gap in establishing the outcomes and circumstances of those referred.
-
-* The NHS has highlighted that not all providers of mental health services submitted data for the MHSDS. Though the dataset is not complete due to underreporting, it is still the best representation of mental health services data we have available. 
 <br/>
-As such, these results do not provide a wholly complete picture of the mental health support available for children but is still a useful starting point and reference for assessing the quality of CAMHS provision at a local level.
-<br/><br/>
- 
  
 **NHS Clinical Commissioning Group Maps**
 
 ***
-Hover over an area to display more information, scroll up and down to zoom.
+Hover over an area to display more information, scroll up and down to zoom. Please see above for the ranges within each indicator.
  
 ```{r,echo=F,message=F,warning=F,include=F}
 

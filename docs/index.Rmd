@@ -41,15 +41,21 @@ Group (CCG) level:
 
 </br>
 
-**Headline findings**
+**Executive Summary**
 
-* Nationally, total spending has increased for the fourth consecutive year. In 2020/21, £881 million was spent on children’s mental health services – an increase from £791 million last year.
-* This rise is spread across the country with fourth fifths of CCGs increasing spend per child since 2019/20.
-* The number and rate of children referred to CYPMHS has decreased for the first time since 2017/18. In 2020/21, 497,502 children were referred, a decrease from 539,000 last year. Referral rates have also dropped from 4.5% to 4% of the under 18 population.
-* Access rates - the proportion of children who may have a mental health disorder able to access treatment - have likely decreased due to a rise in mental health disorder prevalence over the course of the Covid-19 pandemic.
-* NHS figures state that 2 in 5 children with a mental health disorder are accessing specialist mental health services (39.6%). However, these figures are based on prevalence data from 2004 (updated in 2017) rather than the more recent 2021 figures. Applying these new prevalence rates (which capture the rise in probable mental health disorders during the pandemic from 1 in 9 to 1 in 6 children) to ONS population estimates, we calculate the true access rate to be closer to a third of children (32%).
-* For those who are accepted into treatment, average waiting times have decreased substantially from 43 days (2019/20) to 32 days (2020/21). 
-* However, many children are not getting the help they need. Over a third of children referred are still waiting for their second contact (roughly the same as last year) and almost a quarter had their referrals closed before treatment.
+* **Nationally, spending on specialist NHS mental health services for children has increased for the fourth consecutive year across the majority of CCGs.** In 2020/21, £881 million was spent on children’s mental health services (an increase from £791 million the previous year) which is an increase of 11% in cash, and 4.4% in real terms. Out of 135 CCGs in England – 111 (82%) increased their spending on mental health from last year. 
+
+* **Half of CCGs spend at least 1% of their budget on CYPMHS. This is the NHS Long Term Plan benchmark of how much CCGs should be spending on CYPMHS.** 68 out of 135 CCGs (50%) spent at least 1% of their budget on CYPMHS. This is an improvement from 2018/19 where 59 out of 195 CCGs (30%) spent at least 1% of their budget on CYPMHS, and from 2019/20 where 69 out of 191 CCGs (36%) reached that 1% target.
+
+* **The number of children referred (for example by their GP or teacher) to NHS children’s mental health services has decreased for the first time in four years. In 2020/21, 497,502 children were referred, a decrease from 539,000 the previous year.** This could be due to disruption caused by the pandemic. The percentage of children being referred nationally has also decreased. Referral rates have dropped from 4.5% to 4% of the under-18 population.
+
+* **More children have been struggling with their mental health since 2017 – which covers the pandemic period.** One in six children have a probable mental health disorder. This is up from one in nine children with a probable mental health disorder in 2017. While progress has been made to reduce the treatment gap between those who need treatment and what is provided, this increase in need has made this more challenging.
+
+* **Overall, progress has been made across all of our indicators: on waiting times and a reduction in the number of children turned away.**
+
+* **For those children who are accepted into mental health treatment services, average waiting times have decreased substantially from last year.** The waiting times have decreased from 43 days in 2019/20 to 32 days in 2020/21. 
+
+* **However, over a third (37%) of children accepted onto waiting lists are still waiting for their treatment to begin.**
 
 
 </br>
