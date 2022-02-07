@@ -121,7 +121,7 @@ high_spc %>%
 ```
 <br/>
 
-**Table 4: CCGs with the highest mental health spend per child in 2020/21**
+**Table 4: CCGs with the lowest mental health spend per child in 2020/21**
 
 ```{r low spc, echo=FALSE}
 

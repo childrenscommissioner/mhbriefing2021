@@ -44,7 +44,7 @@ These maps present 2020/21 Clinical Commissioning Group (CCG) performance on fiv
 
 * CCG spend on children's mental health as a percentage of CCG budget. This ranges from 0.21% in NHS Halton to 2.01% in NHS Norfolk and Waveney.
 
-* Mental health spend per child (calculated using NHS Five Year Forward View (FYFV) spending figures and ONS mid 2019 CCG population estimates. This ranges from £16 in NHS Halton to NHS Isle of Wight £165 per child.
+* Mental health spend per child (calculated using NHS Five Year Forward View (FYFV) spending figures and ONS mid-2020 CCG population estimates. This ranges from £16 in NHS Halton to NHS Isle of Wight £165 per child.
 
 * Total number of children referred to CAMHS as a proportion of the under-18 population. This ranges from 1.9% in NHS Ealing to 8.5% in NHS South Tyneside. 
 
